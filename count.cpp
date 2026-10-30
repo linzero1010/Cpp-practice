@@ -4,10 +4,9 @@
 using namespace std;
 
 int main(){
-    vector<int> arr(15);
-    int another;
+    vector<int> arr(10);
 
-    for(int i=0;i<15;++i){
+    for(int i=0;i<10;++i){
         int temp;
         cin >> temp;
         arr.at(i) = temp;
