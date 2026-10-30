@@ -5,7 +5,6 @@ using namespace std;
 
 int main(){
     vector<int> arr(15);
-    int another;
 
     for(int i=0;i<15;++i){
         int temp;
